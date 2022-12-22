@@ -18,7 +18,7 @@
     "googleapis": "^41.0.0",
     "helmet": "^3.13.0",
     "joi": "^13.6.0",
-    "jsonwebtoken": "^8.3.0",
+    "jsonwebtoken": "^9.0.0",
     "jwt-simple": "^0.5.1",
     "moment": "^2.22.2",
     "mongoose": "^5.3.4",
